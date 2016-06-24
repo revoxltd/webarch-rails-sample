@@ -16,13 +16,13 @@ inside ```vendor/assets``` folder
 
 4. Copy all the files in inside ```demo/html/assets/plugins``` to ```vendor/assets/webarch_plugins```
 
-5. In your ```config/application.rb``` file add the following code inside the class
+5. In your ```config/application.rb``` file add the following code inside the class like this [application.rb](https://github.com/revoxltd/webarch-rails-sample/blob/master/config/application.rb)
 
-6. Replace your ```app/assets/stylesheets/application.css``` like the following application.css
+6. Replace your ```app/assets/stylesheets/application.css``` like the following [application.css](https://github.com/revoxltd/webarch-rails-sample/blob/master/app/assets/stylesheets/application.css)
 
-7. Replace your ```app/assets/javascripts/application.js``` like the following application.js
+7. Replace your ```app/assets/javascripts/application.js``` like the following [application.js](https://github.com/revoxltd/webarch-rails-sample/blob/master/app/assets/javascripts/application.js)
 
-8. Replace your ```app/views/layouts/application.html.erb``` like the following application.html.erb
+8. Replace your ```app/views/layouts/application.html.erb``` like the following [application.html.erb](https://github.com/revoxltd/webarch-rails-sample/blob/master/app/views/layouts/application.html.erb)
    
 
 ###Done!
