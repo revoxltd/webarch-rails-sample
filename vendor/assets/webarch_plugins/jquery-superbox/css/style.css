@@ -59,7 +59,7 @@
 	position:absolute;
 	top:25px;
 	right:25px;
-	background: url('../../../img/icon/portlet-tray.png') no-repeat;
+	background: url('../../../../webarch/img/icon/portlet-tray.png') no-repeat;
 	background-position: -66px -9px;
 	transition: all 0.1s linear 0s;	
 	width: 10px;
