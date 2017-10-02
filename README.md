@@ -4,7 +4,7 @@ all the files in inside ```demo/html/webarch``` to ```vendor/assets/webarch_core
 
 # Or installing from scratch
 
-The following will be a simple guide to use Webarch admin dashboard template with Ruby on Rails (Tested on **v4.2.0 Rails and Webarch v2.8**)
+The following will be a simple guide to use Webarch admin dashboard template with Ruby on Rails (Tested on **v5.1.4 Rails and Webarch v3.0**)
 
 1. Create a new Rails App
 ```rails new myappp```
@@ -23,6 +23,6 @@ inside ```vendor/assets``` folder
 7. Replace your ```app/assets/javascripts/application.js``` like the following [application.js](https://github.com/revoxltd/webarch-rails-sample/blob/master/app/assets/javascripts/application.js)
 
 8. Replace your ```app/views/layouts/application.html.erb``` like the following [application.html.erb](https://github.com/revoxltd/webarch-rails-sample/blob/master/app/views/layouts/application.html.erb)
-   
+
 
 ###Done!
